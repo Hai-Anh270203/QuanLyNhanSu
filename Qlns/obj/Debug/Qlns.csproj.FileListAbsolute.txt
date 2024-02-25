@@ -1,0 +1,61 @@
+D:\winform\Qlns\Qlns\bin\Debug\Qlns.exe.config
+D:\winform\Qlns\Qlns\bin\Debug\Qlns.exe
+D:\winform\Qlns\Qlns\bin\Debug\Qlns.pdb
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.Form1.resources
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.exe
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.pdb
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.Home.resources
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.ThemCD.resources
+D:\winform\Qlns\Qlns\obj\Debug\Qlns.HeThong.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\bin\Debug\Qlns.exe.config
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\bin\Debug\Qlns.exe
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\bin\Debug\Qlns.pdb
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.csproj.SuggestedBindingRedirects.cache
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.Form1.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.HeThong.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.Home.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.ThemCD.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.exe
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\Qlns.pdb
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\Qlns\obj\Debug\WinFormsApp1.dangnhap.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.csproj.SuggestedBindingRedirects.cache
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.DangNhap.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.Form1.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.HeThong.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.Home.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.ThemCD.resources
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.exe
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.pdb
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\bin\Debug\Qlns.exe.config
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\bin\Debug\Qlns.exe
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\bin\Debug\Qlns.pdb
+C:\Users\DOUBLE COMPUTER\source\repos\bai1\Qlns\QLNS_Git\QLNS\Qlns\Qlns\obj\Debug\Qlns.NhanVien.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\bin\Debug\Qlns.exe.config
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\bin\Debug\Qlns.exe
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\bin\Debug\Qlns.pdb
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.csproj.SuggestedBindingRedirects.cache
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.DangNhap.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.Form1.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.HeThong.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.Home.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.NhanVien.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.ThemCD.resources
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.exe
+C:\Users\DOUBLE COMPUTER\Downloads\Compressed\QLNS\Qlns\Qlns\obj\Debug\Qlns.pdb
