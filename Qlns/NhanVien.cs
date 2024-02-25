@@ -58,19 +58,7 @@ namespace Qlns
                 MessageBox.Show("Đã xảy ra lỗi khi tải danh sách nhân viên: " + ex.Message);
             }
 
-            try
-            {
-                // Tạo một đối tượng của lớp NhanVienDAL để gọi phương thức GetNhanVienList() và lấy danh sách nhân viên
-                NhanVienDAL nhanVienDAL = new NhanVienDAL();
-                nhanVienDTOs = new List<NhanVienDTO>(nhanVienDAL.GetNhanVienList());
-
-                // Gán danh sách nhân viên vào DataSource của DataGridView
-                DGVD.DataSource = nhanVienDTOs;
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Đã xảy ra lỗi khi tải danh sách nhân viên: " + ex.Message);
-            }
+           
         }
 
 
@@ -157,6 +145,16 @@ namespace Qlns
         }
 
         private void PAnh_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnXuatExcel_BackColorChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
