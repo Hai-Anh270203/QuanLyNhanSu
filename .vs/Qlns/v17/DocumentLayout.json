@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|c:\\users\\admin\\downloads\\qlns\\qlns\\qlns\\qlns\\nhanvie_sua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\nhanvie_sua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\nhanvie_sua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\nhanvie_sua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\nhanvien_themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\nhanvien_themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\connectdb\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\connectdb\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\hethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\hethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dal\\chucdanhdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dal\\chucdanhdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dal\\hopdongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dal\\hopdongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dal\\dangnhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dal\\dangnhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dto\\hopdongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dto\\hopdongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\provide\\luuanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\provide\\luuanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\image\\e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\image\\e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\bus\\chucdanhbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\bus\\chucdanhbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\uploadimage\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\uploadimage\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\themcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\themcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dto\\chucdanhdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dto\\chucdanhdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\dto\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\dto\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\suacd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\suacd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\qlns\\image\\005.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{29C72CAC-C501-482F-AD73-122F6D12575C}|Qlns\\Qlns.csproj|solutionrelative:qlns\\image\\005.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Form1.cs",
+              "RelativeDocumentMoniker": "Qlns\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Form1.cs",
+              "RelativeToolTip": "Qlns\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T10:23:55.468Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVie_Sua.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVie_Sua.cs",
+              "RelativeDocumentMoniker": "Qlns\\NhanVie_Sua.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVie_Sua.cs",
+              "RelativeToolTip": "Qlns\\NhanVie_Sua.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:01:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVie_Sua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVie_Sua.cs",
+              "RelativeDocumentMoniker": "Qlns\\NhanVie_Sua.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVie_Sua.cs [Design]",
+              "RelativeToolTip": "Qlns\\NhanVie_Sua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:55:32.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Form1.cs",
+              "RelativeDocumentMoniker": "Qlns\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Form1.cs [Design]",
+              "RelativeToolTip": "Qlns\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.528Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Qlns\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVien.cs [Design]",
+              "RelativeToolTip": "Qlns\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:40.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Qlns\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVien.cs",
+              "RelativeToolTip": "Qlns\\NhanVien.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien_ThemNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVien_ThemNhanVien.cs",
+              "RelativeDocumentMoniker": "Qlns\\NhanVien_ThemNhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\NhanVien_ThemNhanVien.cs [Design]",
+              "RelativeToolTip": "Qlns\\NhanVien_ThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:40.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Qlns\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DangNhap.cs [Design]",
+              "RelativeToolTip": "Qlns\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Qlns\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DangNhap.cs",
+              "RelativeToolTip": "Qlns\\DangNhap.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\ConnectDB\\KetNoi.cs",
+              "RelativeDocumentMoniker": "Qlns\\ConnectDB\\KetNoi.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\ConnectDB\\KetNoi.cs",
+              "RelativeToolTip": "Qlns\\ConnectDB\\KetNoi.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Program.cs",
+              "RelativeDocumentMoniker": "Qlns\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Program.cs",
+              "RelativeToolTip": "Qlns\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeThong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\HeThong.cs",
+              "RelativeDocumentMoniker": "Qlns\\HeThong.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\HeThong.cs [Design]",
+              "RelativeToolTip": "Qlns\\HeThong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Home.cs",
+              "RelativeDocumentMoniker": "Qlns\\Home.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Home.cs [Design]",
+              "RelativeToolTip": "Qlns\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T09:17:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhanVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DAL\\NhanVienDAL.cs",
+              "RelativeDocumentMoniker": "Qlns\\DAL\\NhanVienDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DAL\\NhanVienDAL.cs",
+              "RelativeToolTip": "Qlns\\DAL\\NhanVienDAL.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAJoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:25:35.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LuuAnh.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Provide\\LuuAnh.cs",
+              "RelativeDocumentMoniker": "Qlns\\Provide\\LuuAnh.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Provide\\LuuAnh.cs",
+              "RelativeToolTip": "Qlns\\Provide\\LuuAnh.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:40.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HopDongDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DTO\\HopDongDTO.cs",
+              "RelativeDocumentMoniker": "Qlns\\DTO\\HopDongDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DTO\\HopDongDTO.cs",
+              "RelativeToolTip": "Qlns\\DTO\\HopDongDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:40.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "E.jpg - Bitmap [286x176, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Image\\E.jpg",
+              "RelativeDocumentMoniker": "Qlns\\Image\\E.jpg",
+              "ToolTip": "C:\\Users\\DOUBLE COMPUTER\\Downloads\\Compressed\\QLNS\\Qlns\\Qlns\\Image\\E.jpg - Bitmap [286x176, 24 bit, JPG]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DOUBLE COMPUTER\\Downloads\\Compressed\\QLNS\\Qlns\\Qlns\\Image\\E.jpg - Bitmap [286x176, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-02-25T08:24:40.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UploadImage.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\UploadImage\\UploadImage.cs",
+              "RelativeDocumentMoniker": "Qlns\\UploadImage\\UploadImage.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\UploadImage\\UploadImage.cs",
+              "RelativeToolTip": "Qlns\\UploadImage\\UploadImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:40.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangNhapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DAL\\DangNhapDAL.cs",
+              "RelativeDocumentMoniker": "Qlns\\DAL\\DangNhapDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DAL\\DangNhapDAL.cs",
+              "RelativeToolTip": "Qlns\\DAL\\DangNhapDAL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HopDongDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DAL\\HopDongDAL.cs",
+              "RelativeDocumentMoniker": "Qlns\\DAL\\HopDongDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DAL\\HopDongDAL.cs",
+              "RelativeToolTip": "Qlns\\DAL\\HopDongDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChucDanhDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DAL\\ChucDanhDAL.cs",
+              "RelativeDocumentMoniker": "Qlns\\DAL\\ChucDanhDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DAL\\ChucDanhDAL.cs",
+              "RelativeToolTip": "Qlns\\DAL\\ChucDanhDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChucDanhBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\BUS\\ChucDanhBUS.cs",
+              "RelativeDocumentMoniker": "Qlns\\BUS\\ChucDanhBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\BUS\\ChucDanhBUS.cs",
+              "RelativeToolTip": "Qlns\\BUS\\ChucDanhBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "005.jpg - Bitmap [689x624, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\Image\\005.jpg",
+              "RelativeDocumentMoniker": "Qlns\\Image\\005.jpg",
+              "ToolTip": "C:\\Users\\DOUBLE COMPUTER\\Downloads\\Compressed\\QLNS\\Qlns\\Qlns\\Image\\005.jpg - Bitmap [689x624, 24 bit, JPG]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DOUBLE COMPUTER\\Downloads\\Compressed\\QLNS\\Qlns\\Qlns\\Image\\005.jpg - Bitmap [689x624, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001481|",
+              "WhenOpened": "2024-02-25T08:24:41.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SuaCD.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\SuaCD.cs",
+              "RelativeDocumentMoniker": "Qlns\\SuaCD.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\SuaCD.cs",
+              "RelativeToolTip": "Qlns\\SuaCD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThemCD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\ThemCD.cs",
+              "RelativeDocumentMoniker": "Qlns\\ThemCD.cs",
+              "ToolTip": "C:\\Users\\DOUBLE COMPUTER\\Downloads\\Compressed\\QLNS-main\\Qlns\\Qlns\\ThemCD.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\DOUBLE COMPUTER\\Downloads\\Compressed\\QLNS-main\\Qlns\\Qlns\\ThemCD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-25T08:24:41.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DTO\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Qlns\\DTO\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DTO\\DangNhap.cs",
+              "RelativeToolTip": "Qlns\\DTO\\DangNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChucDanhDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DTO\\ChucDanhDTO.cs",
+              "RelativeDocumentMoniker": "Qlns\\DTO\\ChucDanhDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\QLNS\\QLNS\\Qlns\\Qlns\\DTO\\ChucDanhDTO.cs",
+              "RelativeToolTip": "Qlns\\DTO\\ChucDanhDTO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:24:41.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

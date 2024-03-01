@@ -201,7 +201,7 @@ namespace Qlns
 
         private void btnnhanvien_Click(object sender, EventArgs e)
         {
-
+            OpenFormInPanel(new NhanVien());
         }
 
         private void Accout_img_Click(object sender, EventArgs e)
@@ -227,6 +227,46 @@ namespace Qlns
             // Phóng to ảnh khi chuột di vào
             Accout_img.Width = (int)(Accout_img.Width * 1.1);
             Accout_img.Height = (int)(Accout_img.Height * 1.1);
+        }
+
+        private void Vertical_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btnHeThong_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTracuu_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnBaocao_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnbangluong_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnchamcong_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnbophan_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Container_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
