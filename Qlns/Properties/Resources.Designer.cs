@@ -283,6 +283,16 @@ namespace Qlns.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap quan_ly_nhan_su {
+            get {
+                object obj = ResourceManager.GetObject("quan-ly-nhan-su", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap seach {
             get {
                 object obj = ResourceManager.GetObject("seach", resourceCulture);

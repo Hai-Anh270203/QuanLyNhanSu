@@ -99,3 +99,6 @@ E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DNnhanvien.resources
