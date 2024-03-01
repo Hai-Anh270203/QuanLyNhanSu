@@ -10,6 +10,8 @@ namespace Qlns.DTO
     {
         public int Id { get; set;}
         public string TenCongTac { get; set; }
-        public string status { get;set; }
+        public int Status { get; set; }
+
+
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,9 +20,11 @@ namespace Qlns
         public ChamCong()
         {
             InitializeComponent();
+            
             // Thêm sự kiện TextChanged cho textBox6
             this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
         }
+        ConnectDB.KetNoi Kn = new ConnectDB.KetNoi();
 
         private void buttonnv_Click(object sender, EventArgs e)
         {
@@ -52,22 +55,31 @@ namespace Qlns
 
         private void ChamCong_Load(object sender, EventArgs e)
         {
-            string connectionString = @"Data Source=LAPTOP-QK5FMI7H\SQLEXPRESS01;Initial Catalog=QLNS3 (1);Persist Security Info=True;User ID=Nhi;Password=1;Encrypt=True;TrustServerCertificate=True";
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            ConnectDB.KetNoi Kn = new ConnectDB.KetNoi();
+            try
             {
-                connection.Open();
-                using (SqlDataAdapter adapter = new SqlDataAdapter("SELECT * From KhenThuong", connection))
+                using (SqlConnection ketnoi = Kn.OpenConnection())
                 {
-                    DataTable dt = new DataTable();
-                    adapter.Fill(dt);
-                    dataGridView2.DataSource = dt;
+                    // Truy vấn dữ liệu từ bảng KhenThuong và hiển thị trong dataGridView2
+                    using (SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM KhenThuong", ketnoi))
+                    {
+                        DataTable dtKhenThuong = new DataTable();
+                        adapter.Fill(dtKhenThuong);
+                        dataGridView2.DataSource = dtKhenThuong;
+                    }
+
+                    // Truy vấn dữ liệu từ bảng KiLuat và hiển thị trong dataGridView3
+                    using (SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM KiLuat", ketnoi))
+                    {
+                        DataTable dtKiLuat = new DataTable();
+                        adapter.Fill(dtKiLuat);
+                        dataGridView3.DataSource = dtKiLuat;
+                    }
                 }
-                using (SqlDataAdapter adapter = new SqlDataAdapter("SELECT * From KiLuat", connection))
-                {
-                    DataTable dt = new DataTable();
-                    adapter.Fill(dt);
-                    dataGridView3.DataSource = dt;
-                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -216,6 +228,11 @@ namespace Qlns
             }
             // Cập nhật dataGridView sau khi sửa dữ liệu
             ChamCong_Load(sender, e);
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

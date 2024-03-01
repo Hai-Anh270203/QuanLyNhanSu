@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using Qlns.DAL;
-using Qlns.BUS;
+
 
 namespace Qlns
 {
@@ -256,12 +256,12 @@ namespace Qlns
 
         private void btnchamcong_Click(object sender, EventArgs e)
         {
-
+            OpenFormInPanel(new ChamCong());
         }
 
         private void btnbophan_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void Container_Paint(object sender, PaintEventArgs e)

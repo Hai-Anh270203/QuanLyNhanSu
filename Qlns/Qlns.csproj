@@ -33,10 +33,20 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,9 +56,9 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BUS\ChucDanhBUS.cs" />
     <Compile Include="ChamCong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,6 +67,7 @@
     </Compile>
     <Compile Include="ConnectDB\KetNoi.cs" />
     <Compile Include="DAL\ChucDanhDAL.cs" />
+    <Compile Include="DAL\CongTacDAL.cs" />
     <Compile Include="DAL\DangNhapDAL.cs" />
     <Compile Include="DAL\HopDongDAL.cs" />
     <Compile Include="DAL\NhanVienDAL.cs" />
@@ -142,17 +153,17 @@
     <Compile Include="QLLuong.Designer.cs">
       <DependentUpon>QLLuong.cs</DependentUpon>
     </Compile>
-    <Compile Include="SuaCD.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="SuaCD.Designer.cs">
-      <DependentUpon>SuaCD.cs</DependentUpon>
-    </Compile>
     <Compile Include="ThemCD.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ThemCD.Designer.cs">
       <DependentUpon>ThemCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemCT.Designer.cs">
+      <DependentUpon>ThemCT.cs</DependentUpon>
     </Compile>
     <Compile Include="UploadImage\UploadImage.cs" />
     <EmbeddedResource Include="ChamCong.resx">
@@ -204,8 +215,12 @@
     <EmbeddedResource Include="ThemCD.resx">
       <DependentUpon>ThemCD.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ThemCT.resx">
+      <DependentUpon>ThemCT.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include=".vs\Qlns.csproj.dtbcache.json" />
     <None Include="bin\Debug\Qlns.exe.config" />
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -306,6 +321,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />
+    <Folder Include="BUS\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
