@@ -153,34 +153,7 @@ namespace Qlns.DAL
 
 
         //Dua Nhan vien
-        public void AddNV2(int IdUser, string MaNhanVien, string IdChucDanh, string IdTienLuong, string IdHopDong, string IdCongTac)
-        {
-            try
-            {
-                using (connection = kn.OpenConnection())
-                {
-                    string query = "INSERT INTO NhanVien(IdUser, MaNhanVien, IdChucDanh, IdTienLuong, IdHopDong, IdCongTac) " +
-                                   "VALUES (@IdUser, @MaNhanVien, @IdChucDanh, @IdTienLuong, @IdHopDong, @IdCongTac); ";
-
-                    using (cmd = new SqlCommand(query, connection))
-                    {
-                        // Thêm các tham số và gán giá trị thực
-                        cmd.Parameters.AddWithValue("@IdUser", IdUser);
-                        cmd.Parameters.AddWithValue("@MaNhanVien", MaNhanVien);
-                        cmd.Parameters.AddWithValue("@IdChucDanh", IdChucDanh);
-                        cmd.Parameters.AddWithValue("@IdTienLuong", IdTienLuong);
-                        cmd.Parameters.AddWithValue("@IdHopDong", IdHopDong);
-                        cmd.Parameters.AddWithValue("@IdCongTac", IdCongTac);
-
-                        cmd.ExecuteNonQuery();
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Lỗi khi thêm nhân viên2: " + ex.Message);
-            }
-        }
+      
 
 
     }

@@ -41,5 +41,46 @@ namespace Qlns
             DangNhapDAL dangNhapDAL = new DangNhapDAL();
             string TenTaiKhoan=dangNhapDAL.DangNhap(TaiKhoan, MatKhau,Role);
         }
+
+        private void txtMatKhau_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Restauran_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Normal;
+            Restauran.Visible = false;
+            Max.Visible = true;
+        }
+
+        private void Min_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void Max_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Maximized;
+            Restauran.Visible = true;
+            Max.Visible = false;
+        }
+
+        private void Close_Click(object sender, EventArgs e)
+        {
+            {
+                Application.Exit();
+            }
+        }
     }
 }
