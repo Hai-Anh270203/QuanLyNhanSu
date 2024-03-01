@@ -1,5 +1,4 @@
-﻿using Qlns.DAL;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,29 +10,28 @@ using System.Windows.Forms;
 
 namespace Qlns
 {
-    public partial class DangNhap : Form
+    public partial class DNnhanvien : Form
     {
-        public DangNhap()
+        public DNnhanvien()
         {
             InitializeComponent();
         }
 
-        private void pictureBox4_Click(object sender, EventArgs e)
+        private void min_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Minimized;
         }
 
-
-        private void close_Click(object sender, EventArgs e)
+        private void pictureBox2_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
-        private void iconButton1_Click(object sender, EventArgs e)
+        private void ve_Click(object sender, EventArgs e)
         {
             Home ve = new Home(); // Tạo một thể hiện mới của form DNAdmin
             ve.Show(); // Hiển thị form DNAdmin mà không chặn form hiện tại
-            this.Hide(); // Ẩn form hiện tại thay vì đóng nó
+            this.Hide();
         }
     }
 }

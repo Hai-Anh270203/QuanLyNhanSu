@@ -27,7 +27,7 @@ namespace Qlns
         private void btnThem_Click(object sender, EventArgs e)
         {
             TienLuongDAL tienLuongDAL = new TienLuongDAL();
-            int Id = tienLuongDAL.AddTL(txtBacLuong.Text, txtHeSo.Text, txtPhuCap.Text, txtGhiChu.Text);
+            int Id = tienLuongDAL.AddTL(txtBacLuong.Text, txtHeSo.Text, txtPhuCap.Text, txtLuongCong.Text, txtGhiChu.Text);
 
             if (Id >= 0)
             {
@@ -136,13 +136,14 @@ namespace Qlns
             string BacLuong = txtBL.Text;
             string HeSo = txtHS.Text;
             string PhuCap = txtPC.Text;
+            string LuongCong = txtLC.Text;
             string GhiChu = txtGC.Text;
 
             // Tạo một thể hiện của lớp TienLuongDAL
             TienLuongDAL tienLuongDAL = new TienLuongDAL();
 
             // Gọi phương thức SuaTL với các tham số tương ứng
-            int sua = tienLuongDAL.SuaTL(Id, BacLuong, HeSo, PhuCap, GhiChu);
+            int sua = tienLuongDAL.SuaTL(Id, BacLuong, HeSo, PhuCap,LuongCong, GhiChu);
 
             // Kiểm tra kết quả trả về từ hàm
             if (sua >= 0)
@@ -162,6 +163,7 @@ namespace Qlns
             txtBL.Text = view["BacLuong"].ToString();
             txtHS.Text = view["HeSo"].ToString();
             txtPC.Text = view["PhuCap"].ToString();
+            txtLC.Text = view["LuongCong"].ToString();
             txtGC.Text = view["GhiChu"].ToString();
         }
     }

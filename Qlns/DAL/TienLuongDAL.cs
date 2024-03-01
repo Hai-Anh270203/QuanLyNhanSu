@@ -41,6 +41,7 @@ namespace Qlns.DAL
                                     BacLuong = reader.GetInt32(reader.GetOrdinal("BacLuong")),
                                     HeSo = reader.GetInt32(reader.GetOrdinal("HeSo")),
                                     PhuCap = reader.GetInt32(reader.GetOrdinal("PhuCap")),
+                                    LuongCong = reader.GetInt32(reader.GetOrdinal("LuongCong")),
                                     GhiChu = reader.GetString(reader.GetOrdinal("GhiChu")),
 
                                 };
@@ -62,14 +63,14 @@ namespace Qlns.DAL
         }
 
         //add Lương
-        public int AddTL(string BacLuong, string HeSo, string PhuCap, string GhiChu)
+        public int AddTL(string BacLuong, string HeSo, string PhuCap,string LuongCong, string GhiChu)
         {
             try
             {
                 using (connection = kn.OpenConnection())
                 {
-                    string query = "INSERT INTO TienLuong( BacLuong, HeSo, PhuCap, GhiChu) " +
-                                   "VALUES ( @BacLuong, @HeSo, @PhuCap, @GhiChu);";
+                    string query = "INSERT INTO TienLuong( BacLuong, HeSo, PhuCap,LuongCong, GhiChu) " +
+                                   "VALUES ( @BacLuong, @HeSo, @PhuCap,@LuongCong, @GhiChu);";
 
                     using (cmd = new SqlCommand(query, connection))
                     {
@@ -77,6 +78,7 @@ namespace Qlns.DAL
                         cmd.Parameters.AddWithValue("@BacLuong", BacLuong);
                         cmd.Parameters.AddWithValue("@HeSo", HeSo);
                         cmd.Parameters.AddWithValue("@PhuCap", PhuCap);
+                        cmd.Parameters.AddWithValue("@LuongCong", LuongCong);
                         cmd.Parameters.AddWithValue("@GhiChu", GhiChu);
 
                         // Thực thi câu lệnh SQL và trả về số hàng đã thay đổi trong cơ sở dữ liệu
@@ -93,11 +95,11 @@ namespace Qlns.DAL
                 return -1; // Trả về -1 nếu có lỗi xảy ra
             }
         }
-        public int SuaTL(int Id, string BacLuong, string HeSo, string PhuCap, string GhiChu)
+        public int SuaTL(int Id, string BacLuong, string HeSo, string PhuCap,string LuongCong, string GhiChu)
         {
             try
             {
-                string query = "UPDATE TienLuong SET BacLuong = @BacLuong, HeSo = @HeSo, PhuCap=@PhuCap, GhiChu=@GhiChu WHERE Id = @Id;";
+                string query = "UPDATE TienLuong SET BacLuong = @BacLuong, HeSo = @HeSo, PhuCap=@PhuCap,LuongCong=@LuongCong, GhiChu=@GhiChu WHERE Id = @Id;";
                 using (SqlConnection connection = kn.OpenConnection())
                 using (SqlCommand cmd = new SqlCommand(query, connection))
                 {
@@ -106,6 +108,7 @@ namespace Qlns.DAL
                     cmd.Parameters.AddWithValue("@BacLuong", BacLuong);
                     cmd.Parameters.AddWithValue("@HeSo", HeSo);
                     cmd.Parameters.AddWithValue("@PhuCap", PhuCap);
+                    cmd.Parameters.AddWithValue("@LuongCong", LuongCong);
                     cmd.Parameters.AddWithValue("@GhiChu", GhiChu);
 
                     // Trả về số hàng được cập nhật
@@ -133,7 +136,7 @@ namespace Qlns.DAL
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Lỗi khi xóa nhân viên: " + ex.Message);
+                Console.WriteLine("Lỗi khi xóa bậc lương: " + ex.Message);
                 return -1; // Trả về -1 nếu có lỗi xảy ra
             }
         }
