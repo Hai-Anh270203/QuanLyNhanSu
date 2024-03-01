@@ -10,7 +10,7 @@ namespace Qlns.ConnectDB
 {
     internal class KetNoi
     {
-        string ConnectionStr = @"Data Source=DESKTOP-K13HRA7;Initial Catalog=QLNS;Persist Security Info=True;User ID=ha;Password=1;TrustServerCertificate=True;";
+        string ConnectionStr = @"Data Source=NGOC_LAN\SQLEXPRESS;Initial Catalog=QLNS5;Persist Security Info=True;User ID=lan;Password=1;Encrypt=True;TrustServerCertificate=True;";
         public SqlConnection OpenConnection()
         {
             SqlConnection connection = new SqlConnection(ConnectionStr);

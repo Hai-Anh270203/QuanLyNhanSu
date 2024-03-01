@@ -10,9 +10,8 @@ namespace Qlns.DTO
     {
         public int Id { get; set; }
         public int BacLuong { get; set; }
-        public float HeSo { get; set; }
-        public float PhuCap { get; set; }
+        public int HeSo { get; set; }
+        public int PhuCap { get; set; }
         public string GhiChu { get; set; }
-        public string status { get; set; }
     }
 }
