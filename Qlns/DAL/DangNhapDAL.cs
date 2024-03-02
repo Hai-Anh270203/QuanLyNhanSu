@@ -1,39 +1,31 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Qlns.DAL
 {
     internal class DangNhapDAL
     {
-        public string DangNhap(string TaiKhoan ,string MatKhau ,string Role)
+        public string DangNhap(string TaiKhoan, string MatKhau, string Role)
         {
             ConnectDB.KetNoi Kn = new ConnectDB.KetNoi();
             try
             {
-                string TenTK = "";
-                SqlConnection conn=Kn.OpenConnection();
-                string query = "SELECT Users.TaiKhoan FROM Users " +
-                        "INNER JOIN Role_User ON Users.Id = Role_User.IdUser " +
-                        "INNER JOIN Role ON Role_User.IdRole = Role.Id " +
-                        "WHERE Users.TaiKhoan = @TaiKhoan AND Users.MatKhau = @MatKhau " +
-                        "AND Users.Status = 1 AND Role.Role = @Role;";
-                SqlCommand command=new SqlCommand(query, conn);
-                command.Parameters.AddWithValue("@TaiKhoan", TaiKhoan);
-                command.Parameters.AddWithValue("@MatKhau", MatKhau);
-                command.Parameters.AddWithValue("@Role", Role);
-                SqlDataReader reader = command.ExecuteReader();
-                while (reader.Read())
+                using (SqlConnection conn = Kn.OpenConnection())
                 {
-                    TenTK = reader.GetString(reader.GetOrdinal("TaiKhoan"));
+                    string query = "SELECT Role.Role FROM Users " +
+                                   "INNER JOIN Role_User ON Users.Id = Role_User.IdUser " +
+                                   "INNER JOIN Role ON Role_User.IdRole = Role.Id " +
+                                   "WHERE Users.TaiKhoan = @TaiKhoan AND Users.MatKhau = @MatKhau " +
+                                   "AND Users.Status = 1 AND Role.Role = @Role;";
+                    SqlCommand command = new SqlCommand(query, conn);
+                    command.Parameters.AddWithValue("@TaiKhoan", TaiKhoan);
+                    command.Parameters.AddWithValue("@MatKhau", MatKhau);
+                    command.Parameters.AddWithValue("@Role", Role);
+                    object roleName = command.ExecuteScalar(); // Lấy tên của vai trò
+
+                   
                 }
-                MessageBox.Show("Da lay du lieu");
-                return TenTK;
-    
             }
             catch (Exception ex)
             {

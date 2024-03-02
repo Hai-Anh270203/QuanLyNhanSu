@@ -39,6 +39,8 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
             this.MaKiLuat = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TienKL = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.LiDo = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -55,6 +57,7 @@
             this.button2.TabIndex = 19;
             this.button2.Text = "Trừ bớt";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -65,6 +68,7 @@
             this.button1.TabIndex = 18;
             this.button1.Text = "Cộng thêm";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label5
             // 
@@ -148,8 +152,23 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "DANH SÁCH KỈ LUẬT";
             // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(810, 271);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(151, 22);
+            this.textBox3.TabIndex = 21;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(810, 207);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(151, 22);
+            this.textBox4.TabIndex = 20;
+            // 
             // MaKiLuat
             // 
+            this.MaKiLuat.DataPropertyName = "Id";
             this.MaKiLuat.HeaderText = "Mã kỉ luật";
             this.MaKiLuat.MinimumWidth = 6;
             this.MaKiLuat.Name = "MaKiLuat";
@@ -157,6 +176,7 @@
             // 
             // TienKL
             // 
+            this.TienKL.DataPropertyName = "Tien";
             this.TienKL.HeaderText = "Số tiền";
             this.TienKL.MinimumWidth = 6;
             this.TienKL.Name = "TienKL";
@@ -164,6 +184,7 @@
             // 
             // LiDo
             // 
+            this.LiDo.DataPropertyName = "KiLuat";
             this.LiDo.HeaderText = "Lí do";
             this.LiDo.MinimumWidth = 6;
             this.LiDo.Name = "LiDo";
@@ -174,6 +195,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(990, 450);
+            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.textBox4);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label5);
@@ -187,6 +210,7 @@
             this.Name = "DSKL";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DSKL";
+            this.Load += new System.EventHandler(this.DSKL_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -208,6 +232,8 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.DataGridViewTextBoxColumn MaKiLuat;
         private System.Windows.Forms.DataGridViewTextBoxColumn TienKL;
         private System.Windows.Forms.DataGridViewTextBoxColumn LiDo;

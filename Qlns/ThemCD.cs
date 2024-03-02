@@ -1,4 +1,5 @@
-﻿using Qlns.BUS;
+﻿
+using Qlns.DAL;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -23,9 +24,9 @@ namespace Qlns
         }
         private void ThemChucD_Click(object sender, EventArgs e)
         {
-            string TenChucDanh = txtTenChucDanh.Text;
-            ChucDanhBUS chucDanhBUS = new ChucDanhBUS();
-            chucDanhBUS.ThemCD(TenChucDanh);
+            ChucDanhDAL chucDanhDAL = new ChucDanhDAL();
+            chucDanhDAL.ThemChucDanh(txtTenChucDanh.Text);
+           
         }
 
         public void TenChucDanh_TextChanged(object sender, EventArgs e)
@@ -34,6 +35,11 @@ namespace Qlns
         }
       
         private void ThemCD_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Qlns.ConnectDB;
+using System;
 using System.Data;
 using System.Data.SqlClient;
 using System.Diagnostics;
@@ -8,9 +9,12 @@ namespace Qlns
 {
     public partial class DSKT : Form
     {
-        // Thêm thuộc tính để lưu trữ dữ liệu từ cửa sổ ChamCong
+        private KetNoi ketNoi = new KetNoi();
         public string TextBox6Data { get; set; }
         private ChamCong chamCongWindow;
+        public int idNhanVien { get; set; }
+        public int idKhenThuong { get; set; }
+        private string selectedTienKT;
         public DSKT(ChamCong chamCongWindow)
         {
             InitializeComponent();
@@ -22,20 +26,19 @@ namespace Qlns
 
         private void DSKT_Load(object sender, EventArgs e)
         {
-            string connectionString = @"Data Source=LAPTOP-QK5FMI7H\SQLEXPRESS01;Initial Catalog=QLNS3 (1);Persist Security Info=True;User ID=Nhi;Password=1;Encrypt=True;TrustServerCertificate=True";
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            
+            using (SqlConnection connection = ketNoi.OpenConnection())
             {
-                connection.Open();
+                
                 using (SqlDataAdapter adapter = new SqlDataAdapter("SELECT Id, Tien, KhenThuong FROM KhenThuong", connection))
                 {
                     DataTable dt = new DataTable();
                     adapter.Fill(dt);
                     dataGridView1.DataSource = dt;
                 }
-                connection.Close();
+                
             }
 
-            // Cập nhật textBox3 với dữ liệu từ cửa sổ ChamCong
             textBox3.Text = TextBox6Data;
         }
 
@@ -46,10 +49,23 @@ namespace Qlns
                 int selectedrowindex = dataGridView1.SelectedCells[0].RowIndex;
                 DataGridViewRow selectedRow = dataGridView1.Rows[selectedrowindex];
 
-                string MaKhenThuong = Convert.ToString(selectedRow.Cells["MaKhenThuong"].Value);
                 string SoTien = Convert.ToString(selectedRow.Cells["TienKT"].Value);
-                string LiDo = Convert.ToString(selectedRow.Cells["LiDo"].Value);
                 textBox1.Text = SoTien;
+
+                
+                using (SqlConnection connection = ketNoi.OpenConnection())
+                {
+                    
+                    using (SqlCommand command = new SqlCommand("SELECT Id FROM KhenThuong WHERE Tien = @Tien", connection))
+                    {
+                        command.Parameters.AddWithValue("@Tien", SoTien);
+                        var result = command.ExecuteScalar();
+                        if (result != null)
+                        {
+                            idKhenThuong = Convert.ToInt32(result);
+                        }
+                    }
+                }
             }
         }
 
@@ -58,7 +74,6 @@ namespace Qlns
             int soLan;
             decimal soTien, tongTien;
 
-            // Kiểm tra xem textBox1 và textBox2 có phải là số không
             if (decimal.TryParse(textBox1.Text, out soTien) && int.TryParse(textBox2.Text, out soLan))
             {
                 tongTien = soTien * soLan;
@@ -69,28 +84,78 @@ namespace Qlns
                 textBox4.Text = "Dữ liệu không hợp lệ";
             }
         }
+
+        //Nút cộng thêm
         private void button1_Click(object sender, EventArgs e)
         {
-            decimal soTienCoSan = decimal.Parse(textBox3.Text);
-            decimal tongTien = decimal.Parse(textBox4.Text);
-            soTienCoSan += tongTien;
-            textBox3.Text = soTienCoSan.ToString();
-            // Giả sử chamCongForm là thể hiện của cửa sổ ChamCong
-            chamCongWindow.TextBox6Data = soTienCoSan.ToString();
+            
+            using (SqlConnection connection = ketNoi.OpenConnection())
+            {
+                
+                using (SqlCommand cmd = new SqlCommand("INSERT INTO KhenThuong_NhanVien (IdKhenThuong, IdNhanVien) VALUES (@idKhenThuong, @idNhanVien)", connection))
+                {
+                    cmd.Parameters.AddWithValue("@idKhenThuong", idKhenThuong);
+                    cmd.Parameters.AddWithValue("@idNhanVien", idNhanVien);
+
+                    for (int i = 0; i < Convert.ToInt32(textBox2.Text); i++)
+                    {
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+                
+            }
+            decimal tiensanco = 0, tiencongthem = 0;
+            if (!decimal.TryParse(textBox3.Text, out tiensanco))
+            {
+                tiensanco = 0; 
+            }
+            if (!decimal.TryParse(textBox4.Text, out tiencongthem))
+            {
+                tiencongthem = 0;
+            }
+            selectedTienKT = (tiensanco + tiencongthem).ToString();
+            chamCongWindow.textBox6.Text = this.selectedTienKT;
+
+
+            // Đóng cửa sổ DSKT
             this.Close();
         }
 
-        // Thêm phương thức xử lý sự kiện Click cho nút "Trừ bớt"
-        private void button2_Click(object sender, EventArgs e)
+    
+        //Nút trừ bớt
+        private void button2_Click_1(object sender, EventArgs e)
         {
-            decimal soTienCoSan = decimal.Parse(textBox3.Text);
-            decimal tongTien = decimal.Parse(textBox4.Text);
-            soTienCoSan -= tongTien;
-            textBox3.Text = soTienCoSan.ToString();
-            // Giả sử chamCongForm là thể hiện của cửa sổ ChamCong
-            chamCongWindow.TextBox6Data = soTienCoSan.ToString();
-        }
+            
+            using (SqlConnection connection = ketNoi.OpenConnection())
+            {
+                
+                using (SqlCommand cmd = new SqlCommand("DELETE FROM KhenThuong_NhanVien WHERE IdKhenThuong = @idKhenThuong AND IdNhanVien = @idNhanVien", connection))
+                {
+                    cmd.Parameters.AddWithValue("@idKhenThuong", idKhenThuong);
+                    cmd.Parameters.AddWithValue("@idNhanVien", idNhanVien);
 
-       
+                    for (int i = 0; i < Convert.ToInt32(textBox2.Text); i++)
+                    {
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+                
+            }
+            decimal tiensanco = 0, tientrubot = 0;
+            if (!decimal.TryParse(textBox3.Text, out tiensanco))
+            {
+                tiensanco = 0;
+            }
+            if (!decimal.TryParse(textBox4.Text, out tientrubot))
+            {
+                tientrubot = 0;
+            }
+            selectedTienKT = (tiensanco - tientrubot).ToString();
+            chamCongWindow.textBox6.Text = this.selectedTienKT;
+
+
+            // Đóng cửa sổ DSKT
+            this.Close();
+        }
     }
 }

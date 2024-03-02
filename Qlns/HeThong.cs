@@ -1,14 +1,15 @@
-﻿using Qlns.BUS;
-using Qlns.DAL;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
+using System.Data.SqlTypes;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TheArtOfDevHtmlRenderer.Adapters;
 
 namespace Qlns
 {
@@ -18,19 +19,67 @@ namespace Qlns
         {
             InitializeComponent();
         }
-
-        private void tabChucDanh_Click(object sender, EventArgs e)
+        ConnectDB.KetNoi kn = new ConnectDB.KetNoi();
+        SqlConnection connection = null;
+        SqlDataReader reader = null;
+        SqlCommand cmd = null;
+        SqlDataAdapter adapter = null;
+        private void HeThong_Load(object sender, EventArgs e)
         {
-            ChucDanhDAL GoiChucDanh = new ChucDanhDAL();
-            List<DTO.ChucDanhDTO> DsChucDanh = GoiChucDanh.LayChucDanh();
-            DgvCD.DataSource = DsChucDanh;
-            DgvCD.AutoGenerateColumns = true;
+
+            try
+            {
+                using (connection = kn.OpenConnection())
+                {
+                    string query = "SELECT NhanVien.MaNhanVien, Users.HoTen FROM NhanVien INNER JOIN Users ON NhanVien.IdUser = Users.Id";
+                    cmd = new SqlCommand(query, connection);
+                    adapter = new SqlDataAdapter(cmd);
+                    DataTable dataTable = new DataTable();
+                    adapter.Fill(dataTable);
+                    cbMaNV.DataSource = dataTable;
+                    cbMaNV.DisplayMember = "MaNhanVien";
+
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+            try
+            {
+                using (connection = kn.OpenConnection())
+                {
+                    string query = "SELECT * FROM Role";
+                    cmd = new SqlCommand(query, connection);
+                    adapter = new SqlDataAdapter(cmd);
+                    DataTable dataTable = new DataTable();
+                    adapter.Fill(dataTable);
+                    cbRole.DataSource = dataTable;
+                    cbRole.DisplayMember = "Role";
+
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
-        private void btnThemCD_Click(object sender, EventArgs e)
+        //Hiện tên khi chọn mã nhân viên 
+        private void cbMaNV_SelectedIndexChanged(object sender, EventArgs e)
         {
-            ThemCD cD = new ThemCD();
-            cD.ShowDialog();
+            DataRowView view = (DataRowView)cbMaNV.SelectedItem;
+            string hoTen = view["HoTen"].ToString();
+            txtTenNV.Text = hoTen;
         }
+        
+        //Thêm tài khoản
+
+        //Sửa tài khoản 
+
+        //Xóa tài khoản
+
+
     }
 }

@@ -36,10 +36,16 @@
     <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
       <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
     </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -62,7 +68,9 @@
     </Compile>
     <Compile Include="ConnectDB\KetNoi.cs" />
     <Compile Include="DAL\ChucDanhDAL.cs" />
+    <Compile Include="DAL\CongTacDAL.cs" />
     <Compile Include="DAL\DangNhapDAL.cs" />
+    <Compile Include="DAL\HeThongDAL.cs" />
     <Compile Include="DAL\HopDongDAL.cs" />
     <Compile Include="DAL\NhanVienDAL.cs" />
     <Compile Include="DAL\TienLuongDAL.cs" />
@@ -105,6 +113,7 @@
     <Compile Include="DTO\ChucDanhDTO.cs" />
     <Compile Include="DTO\CongTacDTO.cs" />
     <Compile Include="DTO\DangNhap.cs" />
+    <Compile Include="DTO\HeThongDTO.cs" />
     <Compile Include="DTO\HopDongDTO.cs" />
     <Compile Include="DTO\NhanVienDTO.cs" />
     <Compile Include="DTO\TienLuongDTO.cs" />
@@ -113,6 +122,12 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoPhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoPhan.Designer.cs">
+      <DependentUpon>BoPhan.cs</DependentUpon>
     </Compile>
     <Compile Include="HeThong.cs">
       <SubType>Form</SubType>
@@ -160,6 +175,12 @@
     <Compile Include="ThemCD.Designer.cs">
       <DependentUpon>ThemCD.cs</DependentUpon>
     </Compile>
+    <Compile Include="ThemCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemCT.Designer.cs">
+      <DependentUpon>ThemCT.cs</DependentUpon>
+    </Compile>
     <Compile Include="TienLuong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -188,6 +209,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="BoPhan.resx">
+      <DependentUpon>BoPhan.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="HeThong.resx">
       <DependentUpon>HeThong.cs</DependentUpon>
     </EmbeddedResource>
@@ -215,6 +239,9 @@
     </Compile>
     <EmbeddedResource Include="ThemCD.resx">
       <DependentUpon>ThemCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemCT.resx">
+      <DependentUpon>ThemCT.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TienLuong.resx">
       <DependentUpon>TienLuong.cs</DependentUpon>

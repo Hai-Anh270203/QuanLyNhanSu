@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Qlns.ConnectDB;
+using System;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
@@ -6,12 +7,10 @@ using System.Windows.Forms;
 namespace Qlns
 {
     public partial class DSNV : Form
+
     {
-        //public DSNV()
-        //{
-        //    InitializeComponent();
-        //    this.dataGridView1.SelectionChanged += new System.EventHandler(this.dataGridView1_SelectionChanged);
-        //}
+        private KetNoi ketNoi = new KetNoi();
+        
         private ChamCong chamCongWindow;
         private string selectedMaLuong , selectedLuong , selectedPhuCap , selectedTienKhenThuong , selectedTienKiLuat;
 
@@ -25,11 +24,11 @@ namespace Qlns
         }
         private void DSNV_Load(object sender, EventArgs e)
         {
-            string connectionString = @"Data Source=LAPTOP-QK5FMI7H\SQLEXPRESS01;Initial Catalog=QLNS3 (1);Persist Security Info=True;User ID=Nhi;Password=1;Encrypt=True;TrustServerCertificate=True";
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            
+            using (SqlConnection connection = ketNoi.OpenConnection())
             {
-                connection.Open();
-                using (SqlDataAdapter adapter = new SqlDataAdapter("SELECT NhanVien.MaNhanVien, NhanVien.IdCongTac, NhanVien.IdTienLuong, Users.HoTen, Users.CMND, CongTac.TenCongTac FROM   NhanVien INNER JOIN Users ON NhanVien.Id = Users.Id INNER JOIN CongTac ON NhanVien.IdCongTac = CongTac.Id", connection))
+                
+                using (SqlDataAdapter adapter = new SqlDataAdapter("SELECT NhanVien.MaNhanVien, NhanVien.IdCongTac, NhanVien.IdTienLuong, Users.HoTen, Users.CMND, CongTac.TenCongTac FROM   NhanVien INNER JOIN Users ON NhanVien.IdUser = Users.Id INNER JOIN CongTac ON NhanVien.IdCongTac = CongTac.Id", connection))
                 {
                     DataTable dt = new DataTable();
                     adapter.Fill(dt);
@@ -56,10 +55,10 @@ namespace Qlns
                  this.selectedMaLuong = MaLuong;
 
                 // Kết nối đến cơ sở dữ liệu và truy vấn tên phòng
-                string connectionString = @"Data Source=LAPTOP-QK5FMI7H\SQLEXPRESS01;Initial Catalog=QLNS3 (1);Persist Security Info=True;User ID=Nhi;Password=1;Encrypt=True;TrustServerCertificate=True";
-                using (SqlConnection connection = new SqlConnection(connectionString))
+                
+                using (SqlConnection connection = ketNoi.OpenConnection())
                 {
-                    connection.Open();
+                    
                     using (SqlCommand command = new SqlCommand("SELECT TenCongTac FROM CongTac WHERE Id = @MaPhong", connection))
                     {
                         command.Parameters.AddWithValue("@MaPhong", MaPhong);
@@ -70,10 +69,10 @@ namespace Qlns
                         }
                     }
                 }
-                using (SqlConnection connectionn = new SqlConnection(connectionString))
+                using (SqlConnection connection = ketNoi.OpenConnection())
                 {
-                    connectionn.Open();
-                    using (SqlCommand command = new SqlCommand("SELECT Users.CMND FROM Users WHERE HoTen = @HoTen ", connectionn))
+                    
+                    using (SqlCommand command = new SqlCommand("SELECT Users.CMND FROM Users WHERE HoTen = @HoTen ", connection))
                     {
                         command.Parameters.AddWithValue("@HoTen", HoTen);
                         object result = command.ExecuteScalar();
@@ -83,10 +82,10 @@ namespace Qlns
                         }
                     }
                 }
-                using (SqlConnection connectionn = new SqlConnection(connectionString))
+                using (SqlConnection connection = ketNoi.OpenConnection())
                 {
-                    connectionn.Open();
-                    using (SqlCommand command = new SqlCommand("SELECT TienLuong.BacLuong, TienLuong.PhuCap FROM TienLuong INNER JOIN NhanVien ON TienLuong.Id = NhanVien.IdTienLuong WHERE MaNhanVien = @MaNhanVien ", connectionn))
+                    
+                    using (SqlCommand command = new SqlCommand("SELECT TienLuong.BacLuong, TienLuong.PhuCap FROM TienLuong INNER JOIN NhanVien ON TienLuong.Id = NhanVien.IdTienLuong WHERE MaNhanVien = @MaNhanVien ", connection))
                     {
                         command.Parameters.AddWithValue("@MaNhanVien", MaNhanVien);
                         using (SqlDataReader reader = command.ExecuteReader())
@@ -98,7 +97,7 @@ namespace Qlns
                             }
                         }
                     }
-                    using (SqlCommand command = new SqlCommand($"SELECT SUM(KhenThuong.Tien) as TienKhenThuong FROM KhenThuong_NhanVien JOIN KhenThuong ON KhenThuong_NhanVien.IdKhenThuong = KhenThuong.Id JOIN NhanVien ON KhenThuong_NhanVien.IdNhanVien = NhanVien.Id WHERE NhanVien.MaNhanVien =  @MaNhanVien", connectionn))
+                    using (SqlCommand command = new SqlCommand($"SELECT SUM(KhenThuong.Tien) as TienKhenThuong FROM KhenThuong_NhanVien JOIN KhenThuong ON KhenThuong_NhanVien.IdKhenThuong = KhenThuong.Id JOIN NhanVien ON KhenThuong_NhanVien.IdNhanVien = NhanVien.Id WHERE NhanVien.MaNhanVien =  @MaNhanVien", connection))
                     {
                         command.Parameters.AddWithValue("@MaNhanVien", MaNhanVien);
                         using (SqlDataReader reader = command.ExecuteReader())
@@ -110,7 +109,7 @@ namespace Qlns
                             }
                         }
                     }
-                    using (SqlCommand command = new SqlCommand($"SELECT SUM(KiLuat.Tien) as TienKiLuat FROM KiLuat_NhanVien JOIN KiLuat ON KiLuat_NhanVien.IdKiLuat = KiLuat.Id JOIN NhanVien ON KiLuat_NhanVien.IdNhanVien = NhanVien.Id WHERE NhanVien.MaNhanVien =  @MaNhanVien", connectionn))
+                    using (SqlCommand command = new SqlCommand($"SELECT SUM(KiLuat.Tien) as TienKiLuat FROM KiLuat_NhanVien JOIN KiLuat ON KiLuat_NhanVien.IdKiLuat = KiLuat.Id JOIN NhanVien ON KiLuat_NhanVien.IdNhanVien = NhanVien.Id WHERE NhanVien.MaNhanVien =  @MaNhanVien", connection))
                     {
                         command.Parameters.AddWithValue("@MaNhanVien", MaNhanVien);
                         using (SqlDataReader reader = command.ExecuteReader())
@@ -127,6 +126,7 @@ namespace Qlns
             }
         }
 
+        //Nút hoàn thành
         private void button1_Click(object sender, EventArgs e)
         {
             
