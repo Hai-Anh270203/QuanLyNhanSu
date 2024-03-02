@@ -33,14 +33,13 @@ namespace Qlns
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.iconButton1 = new FontAwesome.Sharp.IconButton();
-            this.admin = new FontAwesome.Sharp.IconButton();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.max = new System.Windows.Forms.PictureBox();
             this.Close = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.btnmax = new System.Windows.Forms.PictureBox();
             this.Min = new System.Windows.Forms.PictureBox();
+            this.admin = new FontAwesome.Sharp.IconButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -67,46 +66,6 @@ namespace Qlns
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1930, 47);
             this.panel1.TabIndex = 5;
-            // 
-            // iconButton1
-            // 
-            this.iconButton1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.iconButton1.BackColor = System.Drawing.Color.MediumPurple;
-            this.iconButton1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.iconButton1.ForeColor = System.Drawing.Color.White;
-            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.SignIn;
-            this.iconButton1.IconColor = System.Drawing.Color.White;
-            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconButton1.IconSize = 40;
-            this.iconButton1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.iconButton1.Location = new System.Drawing.Point(332, 633);
-            this.iconButton1.Name = "iconButton1";
-            this.iconButton1.Padding = new System.Windows.Forms.Padding(26, 0, 0, 0);
-            this.iconButton1.Size = new System.Drawing.Size(313, 77);
-            this.iconButton1.TabIndex = 7;
-            this.iconButton1.Text = "Đăng nhập nhân viên";
-            this.iconButton1.UseVisualStyleBackColor = false;
-            this.iconButton1.Click += new System.EventHandler(this.iconButton1_Click);
-            // 
-            // admin
-            // 
-            this.admin.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.admin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(30)))), ((int)(((byte)(68)))));
-            this.admin.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.admin.ForeColor = System.Drawing.Color.White;
-            this.admin.IconChar = FontAwesome.Sharp.IconChar.SignIn;
-            this.admin.IconColor = System.Drawing.Color.White;
-            this.admin.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.admin.IconSize = 40;
-            this.admin.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.admin.Location = new System.Drawing.Point(32, 633);
-            this.admin.Name = "admin";
-            this.admin.Padding = new System.Windows.Forms.Padding(26, 0, 0, 0);
-            this.admin.Size = new System.Drawing.Size(272, 77);
-            this.admin.TabIndex = 6;
-            this.admin.Text = "Đăng nhập admin";
-            this.admin.UseVisualStyleBackColor = false;
-            this.admin.Click += new System.EventHandler(this.admin_Click);
             // 
             // pictureBox2
             // 
@@ -189,6 +148,26 @@ namespace Qlns
             this.Min.TabIndex = 5;
             this.Min.TabStop = false;
             // 
+            // admin
+            // 
+            this.admin.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.admin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(30)))), ((int)(((byte)(68)))));
+            this.admin.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.admin.ForeColor = System.Drawing.Color.White;
+            this.admin.IconChar = FontAwesome.Sharp.IconChar.SignIn;
+            this.admin.IconColor = System.Drawing.Color.White;
+            this.admin.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.admin.IconSize = 40;
+            this.admin.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.admin.Location = new System.Drawing.Point(170, 628);
+            this.admin.Name = "admin";
+            this.admin.Padding = new System.Windows.Forms.Padding(26, 0, 0, 0);
+            this.admin.Size = new System.Drawing.Size(272, 77);
+            this.admin.TabIndex = 6;
+            this.admin.Text = "Đăng nhập ";
+            this.admin.UseVisualStyleBackColor = false;
+            this.admin.Click += new System.EventHandler(this.admin_Click);
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -206,7 +185,6 @@ namespace Qlns
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1533, 759);
-            this.Controls.Add(this.iconButton1);
             this.Controls.Add(this.admin);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pictureBox1);
@@ -238,7 +216,6 @@ namespace Qlns
         private PictureBox pictureBox2;
         private PictureBox max;
         private PictureBox pictureBox4;
-        private FontAwesome.Sharp.IconButton iconButton1;
         private FontAwesome.Sharp.IconButton admin;
     }
 }

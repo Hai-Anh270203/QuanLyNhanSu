@@ -18,7 +18,7 @@ namespace Qlns
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TienLuong());
+            Application.Run(new Home());
         }
     }
 }
