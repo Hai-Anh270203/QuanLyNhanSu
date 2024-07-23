@@ -19,8 +19,8 @@ namespace Qlns.DTO
         public string DangVien { get; set; }
         public string HocVan { get; set; }
         public int IdTienLuong { get; set; }
-/*        public int IdChucDanh { get; set; }
-        public int IdCongTac { get; set; }*/
+        public int IdChucDanh { get; set; }
+        public int IdCongTac { get; set; }
         public string TenCongTac { get; set; }
         public string TenChucDanh { get; set; }
         public string LoaiHopDong { get; set; }
@@ -30,6 +30,9 @@ namespace Qlns.DTO
 
         public int IdNhanVien { get; set; }
         public string DuongDan { get; set; }
+        public int IdHopDong { get; set; }
+
+
     }
 
     internal class NhanVienDTO2
@@ -41,6 +44,15 @@ namespace Qlns.DTO
         public string IdTienLuong { get; set; }
         public string IdHopDong { get; set; }
         public string IdCongTac { get; set; }
-     
+
+    }
+    //Thong Ke nhan vien
+    internal class ThongKe
+    {
+        public int Nv { get; set; }
+        public int NvNghiViec { get; set; }
+        public int NvHopDong { get; set; }
+
+
     }
 }

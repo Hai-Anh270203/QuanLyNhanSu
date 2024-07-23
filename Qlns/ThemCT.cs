@@ -18,10 +18,12 @@ namespace Qlns
             InitializeComponent();
         }
 
-        private void ThemCongTac_Click(object sender, EventArgs e)
+
+        private void btnThem_Click(object sender, EventArgs e)
         {
             CongTacDAL congTacDAL = new CongTacDAL();
             congTacDAL.ThemCongTac(txtTenCongTac.Text);
+            this.Close();
         }
     }
 }

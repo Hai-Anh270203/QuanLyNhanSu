@@ -82,8 +82,6 @@ E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Qlns.pdb
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DangNhap.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Form1.resources
-E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.HeThong.resources
-E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Home.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_Sua.resources
@@ -101,7 +99,885 @@ E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
 E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
-E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DNnhanvien.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan.resources
 E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCT.resources
 E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Guna.UI2.dll
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVChamCong.resources
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.Licensing.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.Utils.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVHienThiTT.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVKhenThuong.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVKiluat.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVTongLuong.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Chart.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienQL.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVienNghiHuu.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_SinhNhan.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TraCuu.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienQL.aa.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\aa\Qlns.resources.dll
+E:\QLNS\QuanLyNhanSu\Qlns\bin\Debug\aa\Qlns.resources.dll
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.SuaBaoHiem.resources
+E:\QLNS\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemBaoHiem.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe.config
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Qlns.pdb
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\aa\Qlns.resources.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.Licensing.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.Utils.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Guna.UI2.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ChamCong.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Chart.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DangNhap.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienQL.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKL.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Form1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVienNghiHuu.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_SinhNhan.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVHienThiTT.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_Sua.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVChamCong.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVKhenThuong.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVKiluat.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVTongLuong.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.SuaBaoHiem.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemBaoHiem.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCD.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCT.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TraCuu.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienQL.aa.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\aa\Qlns.resources.dll
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.exe
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.pdb
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVie_Sua2.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns._1view.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ChamCong1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKL1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT2.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVienNghiHuu1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_SinhNhan1.resources
+E:\STORE\tong\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns._1view.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ChamCong1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Chart.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DangNhap.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKL1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVienNghiHuu1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_SinhNhan1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVHienThiTT.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVChamCong.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVKhenThuong.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVKiluat.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVTongLuong.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCD.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCT.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Tracuu1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.exe
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.pdb
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT1.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+E:\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe.config
+E:\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe
+E:\QuanLyNhanSu\Qlns\bin\Debug\Qlns.pdb
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.Licensing.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.Utils.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Guna.UI2.dll
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaoDien.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.HienThiTTNV.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.KhenThuongNV.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.KiLuatNV.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVienChamCong.resources
+E:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TongLuongNV.resources
+H:\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe.config
+H:\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe
+H:\QuanLyNhanSu\Qlns\bin\Debug\Qlns.pdb
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.Licensing.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.Utils.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Guna.UI2.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.dll
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.pdb
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.xml
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+H:\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.xml
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns._1view.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ChamCong1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Chart.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.chart1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DangNhap.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKL1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaoDien.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.HienThiTTNV.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.KhenThuongNV.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.KiLuatNV.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVienChamCong.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVienNghiHuu1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_SinhNhan1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVHienThiTT.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVChamCong.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVKhenThuong.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVKiluat.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NVTongLuong.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCD.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCT.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TongLuongNV.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Tracuu1.resources
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.exe
+H:\QuanLyNhanSu\Qlns\obj\Debug\Qlns.pdb
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns._1view.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ChamCong1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Chart.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.chart1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DangNhap.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKL1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaoDien.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCD.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCT.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Tracuu1.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.exe
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.pdb
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe.config
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\Qlns.pdb
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.dll
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.pdb
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.xml
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BaoHiem.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BCTK.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+C:\Users\Admin\Desktop\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns._1view.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BaoHiem.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BCTK.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ChamCong1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Chart.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.chart1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DangNhap.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKL1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaoDien.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCD.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCT.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Tracuu1.resources
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.exe
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.pdb
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe.config
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\Qlns.pdb
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\Guna.UI2.dll
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.dll
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.dll
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.dll
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.pdb
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.xml
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.xml
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+E:\STORE\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.xml
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+E:\STORE\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_HienThiTT1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe.config
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\Qlns.pdb
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.dll
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.pdb
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.xml
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BaoHiem.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BCTK.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ChamCong1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Chart.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DangNhap.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKL1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaoDien.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_HienThiTT1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCD.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCT.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Tracuu1.resources
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.exe
+C:\Users\Admin\Desktop\test\QuanLyNhanSu\Qlns\obj\Debug\Qlns.pdb
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe.config
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\Qlns.exe
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\Qlns.pdb
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\FontAwesome.Sharp.dll
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\Guna.UI2.dll
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.dll
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.dll
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.dll
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.pdb
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.xml
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.WinForms.xml
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+E:\Tài liệu English\QuanLyNhanSu\Qlns\bin\Debug\LiveCharts.Wpf.xml
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BaoHiem.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BCTK.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.BoPhan1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ChamCong1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Chart.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DangNhap.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKL1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSKT1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.DSNV1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaoDien.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NhanVien.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_HienThiTT1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCD.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.ThemCT.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.TienLuong.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.Tracuu1.resources
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.exe
+E:\Tài liệu English\QuanLyNhanSu\Qlns\obj\Debug\Qlns.pdb
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\Qlns.exe.config
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\Qlns.exe
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\Qlns.pdb
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.dll
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.pdb
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.xml
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Admin\Desktop\test\NS\Qlns\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.BaoHiem.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.BCTK.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.BoPhan1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.ChamCong1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.Chart.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.DangNhap.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.DSKL1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.DSKT1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.DSNV1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.GiaoDien.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NhanVien.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.ThemCD.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.ThemCT.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.TienLuong.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.Tracuu1.resources
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.exe
+C:\Users\Admin\Desktop\test\NS\Qlns\obj\Debug\Qlns.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\Qlns.exe.config
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\Qlns.exe
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\Qlns.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\Guna.UI2.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.xml
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.BaoHiem.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.BCTK.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.BoPhan1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.ChamCong1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.Chart.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.DangNhap.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.DSKL1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.DSKT1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.DSNV1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.GiaoDien.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NhanVien.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.ThemCD.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.ThemCT.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.TienLuong.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.Tracuu1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.exe
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NS\NS\Qlns\obj\Debug\Qlns.pdb
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\Qlns.exe.config
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\Qlns.exe
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\Qlns.pdb
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\FontAwesome.Sharp.dll
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\Guna.UI2.dll
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.dll
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.WinForms.dll
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.Wpf.dll
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.pdb
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.xml
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.WinForms.xml
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+E:\Tài liệu English\NS\NS\Qlns\bin\Debug\LiveCharts.Wpf.xml
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.BaoHiem.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.BCTK.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.BoPhan1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.ChamCong1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.Chart.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.DangNhap.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.DSKL1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.DSKT1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.DSNV1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.GiaoDien.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NhanVien.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.ThemCD.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.ThemCT.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.TienLuong.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.Tracuu1.resources
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.exe
+E:\Tài liệu English\NS\NS\Qlns\obj\Debug\Qlns.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\Qlns.exe.config
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\Qlns.exe
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\Qlns.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\Guna.UI2.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.xml
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.BaoHiem.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.BCTK.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.BoPhan1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.ChamCong1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.Chart.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.DangNhap.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.DSKL1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.DSKT1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.DSNV1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.GiaoDien.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NhanVien.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.ThemCD.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.ThemCT.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.TienLuong.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.Tracuu1.resources
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.exe
+C:\Users\MY COMPUTER\Documents\Zalo Received Files\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.pdb
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.AssemblyReference.cache
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.SuggestedBindingRedirects.cache
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.ResolveComReference.cache
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.BaoHiem.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.BCTK.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.BoPhan1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.ChamCong1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.Chart.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.DangNhap.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.DSKL1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.DSKT1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.DSNV1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.FormHeThong1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.GiaoDien.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NhanVien_ThemNhanVien1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NhanVie_Sua1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.GiaodienNV.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NhanVien.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_ChamCong.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_HienThiTT1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_KhenThuong.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_KiLuat.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.NV_TongLuong.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.Properties.Resources.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.SuaBaoHiem1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.ThemBaoHiem1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.ThemCD.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.ThemCT.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.TienLuong.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.Tracuu1.resources
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.GenerateResource.cache
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.CoreCompileInputs.cache
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.exe
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.pdb
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\Qlns.exe.config
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\Qlns.exe
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\Qlns.pdb
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\FontAwesome.Sharp.dll
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\Guna.UI2.dll
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.dll
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.WinForms.dll
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.Wpf.dll
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.pdb
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.xml
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.WinForms.pdb
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.WinForms.xml
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.Wpf.pdb
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\LiveCharts.Wpf.xml
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\obj\Debug\Qlns.csproj.CopyComplete
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\c#\NSs (2)\NSs (2)\NSs\NS\Qlns\bin\Debug\stdole.dll

@@ -28,7 +28,6 @@ namespace Qlns.DAL
                 {
                     Id = sqlDataReader.GetInt32(sqlDataReader.GetOrdinal("Id")),
                     TenChucDanh=sqlDataReader.GetString(sqlDataReader.GetOrdinal("TenChucDanh")),
-                    Status =sqlDataReader.GetInt32(sqlDataReader.GetOrdinal("Status")),
                 };
                 // Process or use the ChucDanhDTO object here
                 ChucDanhList.Add(CD);

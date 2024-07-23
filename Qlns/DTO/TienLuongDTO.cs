@@ -12,7 +12,6 @@ namespace Qlns.DTO
         public int BacLuong { get; set; }
         public int HeSo { get; set; }
         public int PhuCap { get; set; }
-
         public int LuongCong { get; set; }
         public string GhiChu { get; set; }
     }

@@ -8,9 +8,12 @@ namespace Qlns.DTO
 {
     internal class DangNhap
     {
-        public string TaiKhoan { get; set; }
+        public string MaNhanVien { get; set; }
         public string MatKhau { get; set; }
+        public int IdUsers { get; set; }
         public string Role { get; set; }
-        
+        public string HoTen { get; set; }
+        public string GioiTinh { get; set; }
+
     }
 }

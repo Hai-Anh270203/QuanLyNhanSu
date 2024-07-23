@@ -143,6 +143,16 @@ namespace Qlns.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap edogawa_conan__166754179290680712885 {
+            get {
+                object obj = ResourceManager.GetObject("edogawa-conan--166754179290680712885", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hethong {
             get {
                 object obj = ResourceManager.GetObject("hethong", resourceCulture);
@@ -293,6 +303,36 @@ namespace Qlns.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2024_03_03_224623__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2024-03-03 224623 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2024_03_03_224623__1_1 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2024-03-03 224623 (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Screenshot_2024_03_03_224623__1_2 {
+            get {
+                object obj = ResourceManager.GetObject("Screenshot 2024-03-03 224623 (1)2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap seach {
             get {
                 object obj = ResourceManager.GetObject("seach", resourceCulture);
@@ -306,16 +346,6 @@ namespace Qlns.Properties {
         internal static System.Drawing.Bitmap snapedit_1701178368437 {
             get {
                 object obj = ResourceManager.GetObject("snapedit_1701178368437", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Thiết_kế_chưa_có_tên__2_ {
-            get {
-                object obj = ResourceManager.GetObject("Thiết kế chưa có tên (2)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

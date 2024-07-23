@@ -15,7 +15,7 @@ namespace Qlns.DAL
         SqlDataReader reader = null;
         SqlCommand cmd = null;
         SqlDataAdapter adapter = null;
-        public int AddHopDong(string LoaiHopDong ,string NgayBatDau ,string NgayKetThuc)
+        public int AddHopDong(string LoaiHopDong, string NgayBatDau, string NgayKetThuc)
         {
             int IdHopDong;
             try
@@ -27,20 +27,49 @@ namespace Qlns.DAL
                                   + "SELECT SCOPE_IDENTITY() AS IdHopDonh";
                     using (cmd = new SqlCommand(query, connection))
                     {
-                        cmd.Parameters.AddWithValue("@LoaiHopDong" ,LoaiHopDong);
+                        cmd.Parameters.AddWithValue("@LoaiHopDong", LoaiHopDong);
                         cmd.Parameters.AddWithValue("@NgayBatDau", NgayBatDau);
                         cmd.Parameters.AddWithValue("@NgayKetThuc", NgayKetThuc);
-                        IdHopDong =Convert.ToInt32(cmd.ExecuteScalar());
+                        IdHopDong = Convert.ToInt32(cmd.ExecuteScalar());
                         return IdHopDong;
                     }
                 }
-                  
-            }catch (Exception e)
+
+            }
+            catch (Exception e)
             {
                 MessageBox.Show(e.Message);
                 return -1;
             }
-           
+
+        }
+
+        //Sua hop dong
+        public void SuaHopDong(string LoaiHopDong, string NgayBatDau, string NgayKetThuc, string IdHopDong)
+        {
+            try
+            {
+                using (connection = kn.OpenConnection())
+                {
+                    string query = "UPDATE HopDong SET NgayBatDau = @NgayBatDau ,NgayKetThuc=@NgayKetThuc ,LoaiHopDong=@LoaiHopDong WHERE HopDong.Id=@IdHopDong ";
+                    using (cmd = new SqlCommand(query, connection))
+                    {
+                        cmd.Parameters.AddWithValue("@LoaiHopDong", LoaiHopDong);
+                        cmd.Parameters.AddWithValue("@NgayBatDau", NgayBatDau);
+                        cmd.Parameters.AddWithValue("@NgayKetThuc", NgayKetThuc);
+                        cmd.Parameters.AddWithValue("@IdHopDong", IdHopDong);
+
+                        cmd.ExecuteNonQuery();
+
+                    }
+                }
+
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+            }
+
         }
     }
 }

@@ -20,26 +20,18 @@ namespace Qlns
         }
         private void ThemChucDanh()
         {
-            
+
+
         }
-        private void ThemChucD_Click(object sender, EventArgs e)
+
+        private void btnThem_Click(object sender, EventArgs e)
         {
             ChucDanhDAL chucDanhDAL = new ChucDanhDAL();
             chucDanhDAL.ThemChucDanh(txtTenChucDanh.Text);
-           
+            this.Close();
         }
 
-        public void TenChucDanh_TextChanged(object sender, EventArgs e)
-        {
-          
-        }
-      
-        private void ThemCD_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
+        private void txtTenChucDanh_TextChanged(object sender, EventArgs e)
         {
 
         }

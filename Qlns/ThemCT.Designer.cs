@@ -28,65 +28,110 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ThemCongTac = new System.Windows.Forms.Button();
-            this.txtTenCongTac = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtTenCongTac = new Guna.UI2.WinForms.Guna2TextBox();
+            this.btnThem = new Guna.UI2.WinForms.Guna2GradientButton();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // ThemCongTac
+            // panel1
             // 
-            this.ThemCongTac.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(90)))), ((int)(((byte)(189)))));
-            this.ThemCongTac.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ThemCongTac.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ThemCongTac.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ThemCongTac.ForeColor = System.Drawing.SystemColors.Control;
-            this.ThemCongTac.Location = new System.Drawing.Point(287, 193);
-            this.ThemCongTac.Name = "ThemCongTac";
-            this.ThemCongTac.Size = new System.Drawing.Size(197, 48);
-            this.ThemCongTac.TabIndex = 7;
-            this.ThemCongTac.Text = "Thêm";
-            this.ThemCongTac.UseVisualStyleBackColor = false;
-            this.ThemCongTac.Click += new System.EventHandler(this.ThemCongTac_Click);
+            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.txtTenCongTac);
+            this.panel1.Location = new System.Drawing.Point(82, 62);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(627, 190);
+            this.panel1.TabIndex = 184;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Arial", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(175)))), ((int)(((byte)(175)))), ((int)(((byte)(175)))));
+            this.label1.Location = new System.Drawing.Point(25, 55);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(131, 22);
+            this.label1.TabIndex = 180;
+            this.label1.Text = "Tên công tác";
             // 
             // txtTenCongTac
             // 
-            this.txtTenCongTac.AccessibleRole = System.Windows.Forms.AccessibleRole.ScrollBar;
-            this.txtTenCongTac.Location = new System.Drawing.Point(269, 112);
-            this.txtTenCongTac.MaximumSize = new System.Drawing.Size(250, 100);
+            this.txtTenCongTac.BorderRadius = 4;
+            this.txtTenCongTac.BorderThickness = 2;
+            this.txtTenCongTac.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtTenCongTac.DefaultText = "";
+            this.txtTenCongTac.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtTenCongTac.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtTenCongTac.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtTenCongTac.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtTenCongTac.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtTenCongTac.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtTenCongTac.ForeColor = System.Drawing.Color.Black;
+            this.txtTenCongTac.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtTenCongTac.Location = new System.Drawing.Point(312, 67);
+            this.txtTenCongTac.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtTenCongTac.Name = "txtTenCongTac";
-            this.txtTenCongTac.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtTenCongTac.Size = new System.Drawing.Size(250, 26);
-            this.txtTenCongTac.TabIndex = 6;
+            this.txtTenCongTac.PasswordChar = '\0';
+            this.txtTenCongTac.PlaceholderText = "";
+            this.txtTenCongTac.SelectedText = "";
+            this.txtTenCongTac.Size = new System.Drawing.Size(210, 53);
+            this.txtTenCongTac.TabIndex = 181;
             // 
-            // label2
+            // btnThem
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(85, 112);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(136, 26);
-            this.label2.TabIndex = 5;
-            this.label2.Text = "Tên công tác";
+            this.btnThem.BorderRadius = 25;
+            this.btnThem.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnThem.DisabledState.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnThem.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnThem.DisabledState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnThem.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnThem.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(159)))), ((int)(((byte)(67)))));
+            this.btnThem.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(143)))), ((int)(((byte)(81)))), ((int)(((byte)(250)))));
+            this.btnThem.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold);
+            this.btnThem.ForeColor = System.Drawing.Color.White;
+            this.btnThem.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(143)))), ((int)(((byte)(81)))), ((int)(((byte)(250)))));
+            this.btnThem.HoverState.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(159)))), ((int)(((byte)(67)))));
+            this.btnThem.HoverState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnThem.IndicateFocus = true;
+            this.btnThem.Location = new System.Drawing.Point(282, 282);
+            this.btnThem.Name = "btnThem";
+            this.btnThem.ShadowDecoration.BorderRadius = 5;
+            this.btnThem.ShadowDecoration.Color = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(45)))), ((int)(((byte)(125)))));
+            this.btnThem.ShadowDecoration.CustomizableEdges.BottomLeft = false;
+            this.btnThem.ShadowDecoration.CustomizableEdges.TopLeft = false;
+            this.btnThem.ShadowDecoration.Depth = 5;
+            this.btnThem.ShadowDecoration.Shadow = new System.Windows.Forms.Padding(0, 0, 5, 5);
+            this.btnThem.Size = new System.Drawing.Size(250, 76);
+            this.btnThem.TabIndex = 183;
+            this.btnThem.Text = "Thêm công tác";
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // ThemCT
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(604, 353);
-            this.Controls.Add(this.ThemCongTac);
-            this.Controls.Add(this.txtTenCongTac);
-            this.Controls.Add(this.label2);
+            this.ClientSize = new System.Drawing.Size(807, 444);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.btnThem);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "ThemCT";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ThemCT";
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button ThemCongTac;
-        public System.Windows.Forms.TextBox txtTenCongTac;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label1;
+        private Guna.UI2.WinForms.Guna2TextBox txtTenCongTac;
+        private Guna.UI2.WinForms.Guna2GradientButton btnThem;
     }
 }
